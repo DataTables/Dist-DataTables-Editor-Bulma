@@ -1,0 +1,38 @@
+{
+    "name": "datatables.net-editor-bm",
+    "description": "Editor for DataTables with styling for [Bulma](https://bulma.io/)",
+    "main": "js/editor.bulma.js",
+    "module": "js/editor.bulma.mjs",
+    "style": "css/editor.bulma.css",
+    "types": "./types/editor.bulma.d.ts",
+    "version": "3.0.0-beta.1",
+    "files": [
+        "css/**/*.css",
+        "js/**/*.js",
+        "js/**/*.mjs",
+        "types/**/*.d.ts"
+    ],
+    "keywords": [
+        "Editing",
+        "CRUD",
+        "Inline",
+        "Modal",
+        "Multi-row",
+        "Bulma",
+        "Datatables",
+        "table",
+        "filter",
+        "sort"
+    ],
+    "dependencies": {
+        "datatables.net-editor": "3.0.0-beta.1",
+        "datatables.net-bm": "3.0.0-0"
+    },
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "SEE LICENSE IN License.txt"
+}

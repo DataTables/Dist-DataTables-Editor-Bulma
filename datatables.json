@@ -1,0 +1,18 @@
+{
+    "js": [
+        "js/editor.bulma.js",
+        "js/editor.bulma.min.js",
+        "js/editor.bulma.min.mjs",
+        "js/editor.bulma.mjs"
+    ],
+    "css": [
+        "css/editor.bulma.css",
+        "css/editor.bulma.min.css"
+    ],
+    "types": [
+
+    ],
+    "src-repo": "http://github.com/DataTables/Editor",
+    "last-tag": "2.5.2",
+    "last-sync": ""
+}
