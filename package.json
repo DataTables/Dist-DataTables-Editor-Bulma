@@ -5,7 +5,7 @@
     "module": "js/editor.bulma.mjs",
     "style": "css/editor.bulma.css",
     "types": "./types/editor.bulma.d.ts",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -25,7 +25,7 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-editor": "3.0.0",
+        "datatables.net-editor": "3.0.1",
         "datatables.net-bm": "^3"
     },
     "author": {
