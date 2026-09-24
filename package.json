@@ -37,9 +37,10 @@
     "exports": {
         ".": {
             "types": "./types/editor.bulma.d.ts",
+            "style": "./css/editor.bulma.css",
             "import": "./js/editor.bulma.mjs",
-            "default": "./js/editor.bulma.mjs",
-            "require": "./js/editor.bulma.js"
+            "require": "./js/editor.bulma.js",
+            "default": "./js/editor.bulma.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
